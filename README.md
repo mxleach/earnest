@@ -1,4 +1,4 @@
-# 💼 Earnest
+# 🕓 Earnest
 
 > _Plan purposefully. Live earnestly._
 
