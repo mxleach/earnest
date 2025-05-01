@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# 💼 Earnest
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> _Plan purposefully. Live earnestly._
 
-## Available Scripts
+**Earnest** is a modern timesheet and finance planning app that brings clarity to your week — and your wallet. Track your hours, calculate your pay, budget your expenses, and visualize your savings goals, all in one clean and responsive interface.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ⏱️ **Weekly Timesheet Tracker**  
+  Add time blocks, set weekly goals, and calculate total hours day-by-day.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 💸 **Net Pay Calculator**  
+  Estimate your net pay from hours worked, pay type, tax rate, and deductions.
 
-### `npm test`
+- 📊 **Budget Planner**  
+  Enter income and expenses with customizable categories and frequency. Instantly view totals and monthly breakdowns.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🎯 **Savings Goal Calculator**  
+  Project your savings growth over time with interest and contribution options.
 
-### `npm run build`
+- 🔐 **Supabase Auth**  
+  Create an account or try a demo login — all your data is saved locally or with Supabase if connected.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React (Create React App)
+- Chakra UI
+- Supabase Auth + DB (optional)
+- LocalStorage persistence
+- Fully responsive UI
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Local Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/mxleach/earnest.git
+cd earnest
+npm install
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
