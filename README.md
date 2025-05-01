@@ -1,12 +1,6 @@
 # 🕓 Earnest
-# 💼 Earnest
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://earnest-xi.vercel.app)
-
-> _Plan purposefully. Live earnestly._
-
-
-> _Plan purposefully. Live earnestly._
 
 **Earnest** is a modern timesheet and finance planning app that brings clarity to your week — and your wallet. Track your hours, calculate your pay, budget your expenses, and visualize your savings goals, all in one clean and responsive interface.
 
