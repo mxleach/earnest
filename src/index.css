@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Base background color */
+  background-color: #F8F4E3;
+
+  /* === SELECT ONE OF THE OPTIONS BELOW === */
+  
+  /* ✅ Option 1: Subtle Grid Pattern */
+  
+  /* background-image:
+    linear-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.02) 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-position: -1px -1px; */
+  
+
+  /* ✅ Option 2: Vintage Paper Texture (no external assets needed) */
+  /*
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncR type='linear' slope='0.02'/%3E%3CfeFuncG type='linear' slope='0.02'/%3E%3CfeFuncB type='linear' slope='0.01'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: cover;
+  */
+
+  /* ✅ Option 3: Topographic Lines (active right now) */
+  /* background-image: radial-gradient(
+    circle at 50% 50%,
+    rgba(0, 0, 0, 0.01) 0%,
+    rgba(0, 0, 0, 0) 50%,
+    rgba(0, 0, 0, 0.01) 100%
+  );
+  background-size: 80px 80px; */
+
+  /* ✅ Option 4: Dotted Grid */
+  
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.04) 1px, transparent 1px);
+  background-size: 15px 15px;
+  
+
+  /* ✅ Option 5: Clean Minimal (no background image) */
+  
+  background-image: none;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
