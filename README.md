@@ -1,4 +1,10 @@
 # 🕓 Earnest
+# 💼 Earnest
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://earnest-xi.vercel.app)
+
+> _Plan purposefully. Live earnestly._
+
 
 > _Plan purposefully. Live earnestly._
 
